@@ -3,11 +3,11 @@ baseurl: "/" # the name of your github repo
 url: "https://fraank.de" # the url of your github pages
 
 # site information used in page title, meta data etc.
-title: "Tailpages: Tailwind + Github Pages"
-description: A Github Pages (Jekyll) template based on TailwindCSS
+title: "fraank"
+description: Frank Cieslik
 
 # color theme for links
-theme-color: green # indigo|yellow|pink|green|stone|
+theme-color: green
 
 # homepage information
 author: Frank Cieslik
@@ -34,8 +34,8 @@ google-scholar: false
 email: false
 
 # footer information
-footer-msg: ""
-footer-msg-link: https://github.com/harrywang/tailpages
+footer-msg: "build with @fuxlab"
+footer-msg-link: https://fuxlab.com
 
 # google analytics
 google-analytics: 'UA-131604694-1'
