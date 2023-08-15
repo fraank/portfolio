@@ -17,11 +17,11 @@ author-image: fraank.png  # file must be in the /assets/img/ folder
 # navigation menu
 show-nav-menu: true
 
-nav-menu:
-- text: About
-  permalink: about
-- text: Blog
-  permalink: blog
+# nav-menu:
+# - text: About
+#   permalink: about
+# - text: Blog
+#   permalink: blog
 
 # use false to turn off any social media links
 twitter: https://twitter.com/fraank
